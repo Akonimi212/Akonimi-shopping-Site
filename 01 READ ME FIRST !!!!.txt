@@ -1,0 +1,25 @@
+Akonimi SHOPPING SITE IN PHP
+
+**Customer Login Details**
+
+Email   : samuel@gmail.com
+Password: 1234
+
+**Admin Login**
+
+Username: Akonimi
+Password: 0000
+
+**---------**
+
+DON'T FORGET TO CREATE A DATABASE NAMING "edgedata" AND IMPORT THE DATBASE SQL FILE.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED MY WORK *****
+
+***** FOR MORE PROJECTS :- samuelamosm1@gmail.com *****
+
+#BEST REGARDS 
